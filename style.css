@@ -103,7 +103,7 @@ button {
   transition-duration: .5s;
   transform: rotateY(360deg);
   color: #000;
-  background-color: #76CE82;
+  background-color: #55E6C1;
 }
 .keyrow {
   display: flex;

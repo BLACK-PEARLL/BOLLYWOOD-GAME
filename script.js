@@ -51,6 +51,7 @@ function checkLetter(guess){
   };
  
   return null;
+ 
 };
 
 
